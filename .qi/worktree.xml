@@ -1,0 +1,5 @@
+<worktree>
+  <project src="goalkeeper" />
+  <project src="vision" />
+  <project src="shooter" />
+  </worktree>

@@ -1,0 +1,3 @@
+/home/dsapandora/Public/nao_workspace/opencvVision/CMakeFiles/edit_cache.dir
+/home/dsapandora/Public/nao_workspace/opencvVision/CMakeFiles/rebuild_cache.dir
+/home/dsapandora/Public/nao_workspace/opencvVision/CMakeFiles/BallDetection.dir
